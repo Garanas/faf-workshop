@@ -1,4 +1,5 @@
 {"versions":{
+"3840":{"file":"3837.json","unitCount":606,"reusedFrom":3837,"changes":{"previous":3839,"changed":[],"added":[],"removed":[]},"commit":"d0f37b8a19aa1e6986edbe009a43652a25b37ab6","released":"2026-10-20","generated":"2026-10-22"},
 "3839":{"file":"3837.json","unitCount":606,"reusedFrom":3837,"changes":{"previous":3838,"changed":[],"added":[],"removed":[]},"commit":"36701ed9e184818bc264ec0b325676356c1ed743","released":"2026-08-28","generated":"2026-10-14"},
 "3838":{"file":"3837.json","unitCount":606,"reusedFrom":3837,"changes":{"previous":3837,"changed":[],"added":[],"removed":[]},"commit":"d94926aa3bd0058d6ddc246c77d7e93c4b5add35","released":"2026-08-25","generated":"2026-10-14"},
 "3837":{"file":"3837.json","unitCount":606,"changes":{"previous":3836,"changed":["daa0206","uaa0310","uab2104","ual0401","uec0001","url0401","xal0305","xea0002","xeb2402","xrl0302","xsb2104","xsb2304","xsl0205","xsl0305","zeb9601"],"added":[],"removed":[]},"commit":"82a2612d083deafb6bec99fc85a3f1aa6cbcfedb","released":"2026-08-14","generated":"2026-10-14"},
